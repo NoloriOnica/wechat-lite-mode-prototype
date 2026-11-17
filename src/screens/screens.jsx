@@ -624,7 +624,7 @@ function S18() {
 
 /* ---------- registry ---------- */
 export const SCREENS = {
-  '01': { C: S01, title: 'Communication Home', refs: 'US1, US9, US17 · F1 · FR-1.1–1.4', caption: 'Pinned family photos on the first screen; four fixed, labelled actions at the bottom; Settings lets the user edit contacts or switch back to standard WeChat.' },
+  '01': { C: S01, title: 'Lite Mode Home', refs: 'US1, US9, US17 · F1 · FR-1.1–1.4', caption: 'Pinned family photos on the first screen; four fixed, labelled actions at the bottom; Settings lets the user edit contacts or switch back to standard WeChat.' },
   '02': { C: S02, title: 'Contact page', refs: 'US2, US3, US4, US6 · F2, F3 · FR-2.1, FR-3.1', caption: 'One tap on a photo opens three large labelled actions. Back and Home are always in the same place; Help sits in a fixed corner.' },
   '03': { C: S03, title: 'Chat with large text', refs: 'US4, US10, US15 · F2, F6 · FR-2.4, FR-6.1', caption: 'Large message text, a clear “Speak to type” option instead of small icons, and Read aloud / Show as text on incoming messages.' },
   '04': { C: S04, title: 'Voice message recorder', refs: 'US3, US5 · F2 · FR-2.2', caption: 'Tap once to start and tap Send to finish – no need to hold a finger down (replaces WeChat’s hold-to-talk). Visible timer and a large Cancel button.' },
